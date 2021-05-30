@@ -49,7 +49,7 @@
 - [Bear](https://apps.apple.com/cn/app/bear/id1091189122?l=en&mt=12) - Bear is a focused, flexible notes app used by writers, lawyers, chefs, teachers, engineers, students, parents and more!
 - [Alfred](https://www.alfredapp.com) - Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
 
-<a name="utilities">
+<a name="utilities"></a>
 ## Utilities
 - [iTerm](https://iterm2.com) - A macOS terminal replacement.
 - [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Keep your mac awake.
@@ -58,6 +58,7 @@
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Every time you multitask with many apps open, you need all the windows arranged accordingly. Magnet makes this process swift and easy.
 - [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?l=en&mt=12) - A lightweight program to unarchieve different kinds of archive files.
 - [QQ Browser Lite/QQ浏览器Lite](https://apps.apple.com/cn/app/qq%E6%B5%8F%E8%A7%88%E5%99%A8-lite-%E6%9E%81%E9%80%9F%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%B5%8F%E8%A7%88%E5%99%A8/id1178458919?l=en&mt=12) - 极速安全的浏览器。
+- [Fancy Text](https://apps.apple.com/cn/app/fancy-text-better-fonts/id1454211033?l=en&mt=12) - Fancy Text is a minimalist tool for the text with cool fonts and special decoration.
 
 <a name="extensions"></a>
 ## Extensions
