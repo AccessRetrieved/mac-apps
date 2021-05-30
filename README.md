@@ -18,6 +18,8 @@
 - [Boop](https://apps.apple.com/us/app/boop/id1518425043?mt=12) - A simple app to deal with text input.
 - [Sublime text editor](http://www.sublimetext.com) - Text Editing, Done Right.
 - [Atom](https://atom.io) - A simple code editor for the 21th century.
+- [Json Editor](https://github.com/fand/json-editor-app) - Dead simple JSON editor.
+
 
 <a name="chat"></a>
 ## Chat
@@ -65,6 +67,10 @@
 ## Extensions
 #### Wechat Extensions/微信插件
 - [WechatExtension For Mac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手。
+
+#### Safari
+- [Pipifier](https://github.com/arnoappenzeller/PiPifier) - Picture in Picture for nearly every video.
+
 
 <a name="lifestyle"></a>
 ## Lifestyle
