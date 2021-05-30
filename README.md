@@ -9,7 +9,7 @@
 - [Utilities](#utilities)
 - [Extensions](#extensions)
 - [Lifestyle](#lifestyle)
-- Security
+- [Security](#security)
 
 <a name="developertools"></a>
 ## Developer tools
@@ -59,6 +59,7 @@
 - [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?l=en&mt=12) - A lightweight program to unarchieve different kinds of archive files.
 - [QQ Browser Lite/QQ浏览器Lite](https://apps.apple.com/cn/app/qq%E6%B5%8F%E8%A7%88%E5%99%A8-lite-%E6%9E%81%E9%80%9F%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%B5%8F%E8%A7%88%E5%99%A8/id1178458919?l=en&mt=12) - 极速安全的浏览器。
 - [Fancy Text](https://apps.apple.com/cn/app/fancy-text-better-fonts/id1454211033?l=en&mt=12) - Fancy Text is a minimalist tool for the text with cool fonts and special decoration.
+- [Snipaste](https://www.snipaste.com) - Free. Customizable. Portable
 
 <a name="extensions"></a>
 ## Extensions
@@ -67,5 +68,8 @@
 
 <a name="lifestyle"></a>
 ## Lifestyle
-- [MD Clock/谜底时钟](https://apps.apple.com/cn/app/md-clock-live-in-the-present/id1536358464?l=en) - Life in the present.
+- [MD Clock/谜底时钟](https://apps.apple.com/cn/app/md-clock-live-in-the-present/id1536358464?l=en) - Live in the present.
 
+<a name="security">
+## Security
+- [1Password7](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?l=en&mt=12) - The greatest password manager ever created.
