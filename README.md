@@ -39,6 +39,8 @@
 ## Music
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - LyricsX is a plugin for iTunes, Spotify and Vox, which auto search and download lyrics for the current playing from Internet, and displays them in the desktop and menubar.
 - [Netease Music/网易云音乐](https://apps.apple.com/cn/app/网易云音乐/id944848654?mt=12) - 网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。
+- [Music Bar](https://github.com/musa11971/Music-Bar/) - Control Apple Music from your menubar.
+- [Youtube Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for youtube music.
 
 <a name="email"></a>
 ## Email
@@ -50,6 +52,7 @@
 - [WPS Office/金山办公软件](https://apps.apple.com/cn/app/wps-office/id1443749478?l=en&mt=12) - WPS office is a complete office suite, including writer, spreadsheets, presentations, pdf, flowchart, mind map, cloud collaboration service, chuangkit and high-quality courses.
 - [Bear](https://apps.apple.com/cn/app/bear/id1091189122?l=en&mt=12) - Bear is a focused, flexible notes app used by writers, lawyers, chefs, teachers, engineers, students, parents and more!
 - [Alfred](https://www.alfredapp.com) - Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more.
+- [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for mac, windows, and linux.
 
 <a name="utilities"></a>
 ## Utilities
@@ -62,6 +65,8 @@
 - [QQ Browser Lite/QQ浏览器Lite](https://apps.apple.com/cn/app/qq%E6%B5%8F%E8%A7%88%E5%99%A8-lite-%E6%9E%81%E9%80%9F%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%B5%8F%E8%A7%88%E5%99%A8/id1178458919?l=en&mt=12) - 极速安全的浏览器。
 - [Fancy Text](https://apps.apple.com/cn/app/fancy-text-better-fonts/id1454211033?l=en&mt=12) - Fancy Text is a minimalist tool for the text with cool fonts and special decoration.
 - [Snipaste](https://www.snipaste.com) - Free. Customizable. Portable
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - A ultra-lite app to hide and expand your menubar.
+- [Stats](https://github.com/exelban/stats) - macOS system monitor in your menubar.
 
 <a name="extensions"></a>
 ## Extensions
@@ -70,11 +75,19 @@
 
 #### Safari
 - [Pipifier](https://github.com/arnoappenzeller/PiPifier) - Picture in Picture for nearly every video.
+- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension to save your working sessions.
 
+#### Keyboard
+- [搜狗输入法](https://pinyin.sogou.com/mac/) - 高效输入，精准表达。
+
+#### Finder
+- [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) - Find duplicate files.
+- [Open In Terminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app for macOS to open the current directory in Terminal.
 
 <a name="lifestyle"></a>
 ## Lifestyle
 - [MD Clock/谜底时钟](https://apps.apple.com/cn/app/md-clock-live-in-the-present/id1536358464?l=en) - Live in the present.
+- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV aerial screensaver for mac
 
 <a name="security">
 ## Security
