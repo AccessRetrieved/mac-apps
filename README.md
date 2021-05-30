@@ -18,4 +18,5 @@
 ## Chat
 - [Slack](https://slack.com/intl/en-ca/downloads/mac) - Slack brings team communication and collaboration into one place.
 - [WeChat](https://apps.apple.com/cn/app/id836500024) - 微信，是一个生活方式。
+- [QQ](https://im.qq.com) - 每一天，乐在沟通。
 - 
