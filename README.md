@@ -12,6 +12,7 @@
 - [Security](#security)
 - [Photo & Video](#photoandvideo)
 - [Health](#health)
+- [Mac apps download sites](#macappsdownloadsites)
 
 <a name="developertools"></a>
 ## Developer tools
@@ -183,3 +184,10 @@
 
 #### Eyes
 - [Take a break](https://apps.apple.com/cn/app/take-a-break-timer-reminder/id1457158844?l=en&mt=12) - You deserve a break, don't work too hard.
+
+<a name="macappsdownloadsites">
+## Mac apps download sites
+- [Slant](https://www.slant.co/)
+- [Setapp](https://setapp.com/)
+- [AppShopper](https://appshopper.com/)
+- [Macbl](http://www.macbl.com)
