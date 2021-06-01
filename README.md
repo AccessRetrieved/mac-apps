@@ -15,6 +15,7 @@
 - [Mac apps download sites](#macappsdownloadsites)
 
 <a name="developertools"></a>
+
 ## Developer tools
 
 #### IDEs
@@ -43,6 +44,7 @@
 - [WeeChat](https://weechat.org) - The command line chat client.
 
 <a name="chat"></a>
+
 ## Chat
 - [Slack](https://slack.com/intl/en-ca/downloads/mac) - Slack brings team communication and collaboration into one place.
 - [微信](https://apps.apple.com/cn/app/id836500024) - 微信，是一个生活方式。
@@ -53,12 +55,14 @@
 - [WeeChat](https://weechat.org) - The command line chat client.
 
 <a name="storagemanager"></a>
+
 ## Storage Manager
 - [Omni Disk Sweeper](https://www.omnigroup.com/more) - Quickly find large, unwanted files and sweep them into the trash.
 - [DevCleaner](https://apps.apple.com/us/app/devcleaner-for-xcode/id1388020431?mt=12) - Best tool for cleaning XCode derived data and caches.
 - [Tencent Lemon Cleaner/腾讯柠檬清理](https://lemon.qq.com) - 全新Mac清理工具，实时了解Mac系统状况。
 
 <a name="music"></a>
+
 ## Music
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - LyricsX is a plugin for iTunes, Spotify and Vox, which auto search and download lyrics for the current playing from Internet, and displays them in the desktop and menubar.
 - [网易云音乐](https://apps.apple.com/cn/app/网易云音乐/id944848654?mt=12) - 网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。
@@ -66,12 +70,14 @@
 - [Youtube Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for youtube music.
 
 <a name="email"></a>
+
 ## Email
 - [Foxmail](https://apps.apple.com/cn/app/foxmail/id617950461?l=en&mt=12) - Simple, yet not common. Efficient, yet effortless. Enjoy easier communication, yet keep all the hassles from work at bay.
 - [网易邮箱大师](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88/id1233593954?l=en&mt=12) - 轻松管理你的所有邮箱。
 - [Spark](https://sparkmailapp.com/) - Fast email client.
 
 <a name="productivity"></a>
+
 ## Productivity
 
 #### Note taking
@@ -98,6 +104,7 @@
 - [Things](https://culturedcode.com/things/) - Modern looking task manager. **(Award-winning app!)**
 
 <a name="utilities"></a>
+
 ## Utilities
 
 #### Fonts
@@ -130,6 +137,7 @@
 - [Setapp](https://setapp.com/) - The best apps for Mac in one suite.
 
 <a name="extensions"></a>
+
 ## Extensions
 
 #### Wechat Extensions/微信插件
@@ -151,6 +159,7 @@
 - [QuickLookJSON](http://www.sagtau.com/quicklookjson.html) - Preview JSON files in the quick-look window.
 
 <a name="lifestyle"></a>
+
 ## Lifestyle
 - [谜底时钟](https://apps.apple.com/cn/app/md-clock-live-in-the-present/id1536358464?l=en) - Live in the present.
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV aerial screensaver for mac
@@ -158,6 +167,7 @@
 - [Fancy Text](https://apps.apple.com/cn/app/fancy-text-better-fonts/id1454211033?l=en&mt=12) - Fancy Text is a minimalist tool for the text with cool fonts and special decoration.
 
 <a name="security"></a>
+
 ## Security
 
 #### Encryption
@@ -172,6 +182,7 @@
 - [Authy](https://authy.com) - Another two-factor authentication for the Mac.
 
 <a name="photoandvideo"></a>
+
 ## Photo & Video
 
 #### Design
@@ -180,12 +191,14 @@
 - [macSVG](https://macsvg.org) - Design HTML5 SVG art and animation on your mac.
 
 <a name="health"></a>
+
 ## Health
 
 #### Eyes
 - [Take a break](https://apps.apple.com/cn/app/take-a-break-timer-reminder/id1457158844?l=en&mt=12) - You deserve a break, don't work too hard.
 
 <a name="macappsdownloadsites"></a>
+
 ## Mac apps download sites
 - [Slant](https://www.slant.co/)
 - [Setapp](https://setapp.com/)
