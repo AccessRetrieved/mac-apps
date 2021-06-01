@@ -1,6 +1,6 @@
 # A list of awesome Mac apps
 
-### Topics 
+### Browse by Topics
 - [Developer tools](#developertools)
 - [Chat](#chat)
 - [Storage manager](#storagemanager)
