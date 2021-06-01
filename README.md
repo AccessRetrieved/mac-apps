@@ -140,7 +140,7 @@
 
 ## Extensions
 
-#### Wechat Extensions/微信插件
+#### 微信插件
 - [WechatExtension For Mac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手。
 
 #### Safari
