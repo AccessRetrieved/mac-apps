@@ -30,7 +30,7 @@
 - [BetterRename](http://www.publicspace.net/BetterRename/) - The best file renaming application for your mac.
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - macOS Host file manager that can't be simpler.
 - [iHosts](https://apps.apple.com/app/id1102004240?mt=12/) - Host file editor for you mac.
-- [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder.
+- [Gemini](https://macpaw.com/gemini) - The intelligent duplicate file finder. **(Editor's Choice!)**
 - [Android file transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device.
 - [The Unarchiver](https://apps.apple.com/cn/app/the-unarchiver/id425424353?l=en&mt=12) - A lightweight program to unarchieve different kinds of archive files.
 - [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086) - .nib to .xib/
@@ -74,15 +74,15 @@
 ## Email
 - [Foxmail](https://apps.apple.com/cn/app/foxmail/id617950461?l=en&mt=12) - Simple, yet not common. Efficient, yet effortless. Enjoy easier communication, yet keep all the hassles from work at bay.
 - [网易邮箱大师](https://apps.apple.com/cn/app/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88/id1233593954?l=en&mt=12) - 轻松管理你的所有邮箱。
-- [Spark](https://sparkmailapp.com/) - Fast email client.
+- [Spark](https://sparkmailapp.com/) - Fast email client. **(Editor's Choice!)**
 
 <a name="productivity"></a>
 
 ## Productivity
 
 #### Note taking
-- [Notability](https://apps.apple.com/cn/app/notability/id360593530?l=en) - A powerful, yet wonderful note-taking and PDF editor.
-- [Bear](https://apps.apple.com/cn/app/bear/id1091189122?l=en&mt=12) - Bear is a focused, flexible notes app used by writers, lawyers, chefs, teachers, engineers, students, parents and more!
+- [Notability](https://apps.apple.com/cn/app/notability/id360593530?l=en) - A powerful, yet wonderful note-taking and PDF editor. **(Editor's Choice!)**
+- [Bear](https://apps.apple.com/cn/app/bear/id1091189122?l=en&mt=12) - Bear is a focused, flexible notes app used by writers, lawyers, chefs, teachers, engineers, students, parents and more! **(Editor's Choice!)**
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for mac, windows, and linux.
 - [Evernote](https://evernote.com/) - Another note-taking app.
 
@@ -102,6 +102,9 @@
 - [2Do](https://www.2doapp.com) - Simple todo app.
 - [OmniFocus](https://www.omnigroup.com/omnifocus/) - Todo app developed by the OmniGroup.
 - [Things](https://culturedcode.com/things/) - Modern looking task manager. **(Award-winning app!)**
+
+#### Other
+- [Affinity Publisher](https://apps.apple.com/cn/app/affinity-publisher/id881418622?l=en&mt=12) - Bring your vision to life with Affinity Publisher. **(Editor's Choice!)**
 
 <a name="utilities"></a>
 
@@ -174,7 +177,7 @@
 - [Deadbolt](https://github.com/alichtman/deadbolt) - The fastest and easiest open-source file encryption tool you'll ever need.
 
 #### Password management
-- [1Password7](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?l=en&mt=12) - The greatest password manager ever created.
+- [1Password7](https://apps.apple.com/cn/app/1password-7-password-manager/id1333542190?l=en&mt=12) - The greatest password manager ever created. **(Editor's Choice!)**
 - [LastPass](https://lastpass.com/) - Password management tool for macOS and browser.
 
 #### Two-step authentication
@@ -186,8 +189,8 @@
 ## Photo & Video
 
 #### Design
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design application.
-- [Affinity Photos](https://affinity.serif.com/en-us/photo/) - Professional image editing application.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design application. **(Editor's Choice)**
+- [Affinity Photos](https://affinity.serif.com/en-us/photo/) - Professional image editing application. **(Editor's Choice)**
 - [macSVG](https://macsvg.org) - Design HTML5 SVG art and animation on your mac.
 
 <a name="health"></a>
