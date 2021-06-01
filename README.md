@@ -85,6 +85,7 @@
 - [Bear](https://apps.apple.com/cn/app/bear/id1091189122?l=en&mt=12) - Bear is a focused, flexible notes app used by writers, lawyers, chefs, teachers, engineers, students, parents and more! **(Editor's Choice!)**
 - [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for mac, windows, and linux.
 - [Evernote](https://evernote.com/) - Another note-taking app.
+- [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 
 #### Browsers
 - [QQ Browser Lite/QQ浏览器Lite](https://apps.apple.com/cn/app/qq%E6%B5%8F%E8%A7%88%E5%99%A8-lite-%E6%9E%81%E9%80%9F%E5%AE%89%E5%85%A8%E4%B8%8A%E7%BD%91%E6%B5%8F%E8%A7%88%E5%99%A8/id1178458919?l=en&mt=12) - 极速安全的浏览器。
