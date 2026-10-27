@@ -126,6 +126,7 @@
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - A ultra-lite app to hide and expand your menubar.
 - [Stats](https://github.com/exelban/stats) - macOS system monitor in your menubar.
 - [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12) - Keep your mac awake.
+- [Command Reopen](https://commandreopen.com/) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 - [Paste](https://pasteapp.io) - A better way to copy and paste.
 - [Magnet](https://apps.apple.com/us/app/magnet/id441258766?mt=12) - Every time you multitask with many apps open, you need all the windows arranged accordingly. Magnet makes this process swift and easy.
 - [Bartender](https://www.macbartender.com) - Show and hide your menubar.
